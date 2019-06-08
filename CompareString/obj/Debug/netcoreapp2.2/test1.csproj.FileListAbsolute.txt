@@ -1,0 +1,4 @@
+/Users/chrislee/MKL/DataStructureAlgorithm/CompareString_20190529/obj/Debug/netcoreapp2.2/test1.csprojAssemblyReference.cache
+/Users/chrislee/MKL/DataStructureAlgorithm/CompareString_20190529/obj/Debug/netcoreapp2.2/test1.csproj.CoreCompileInputs.cache
+/Users/chrislee/MKL/DataStructureAlgorithm/CompareString_20190529/obj/Debug/netcoreapp2.2/test1.AssemblyInfoInputs.cache
+/Users/chrislee/MKL/DataStructureAlgorithm/CompareString_20190529/obj/Debug/netcoreapp2.2/test1.AssemblyInfo.cs

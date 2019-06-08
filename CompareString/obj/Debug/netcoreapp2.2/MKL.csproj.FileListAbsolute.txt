@@ -1,0 +1,11 @@
+/Users/chrislee/MKL/DataStructureAlgorithm/CompareString_20190529/obj/Debug/netcoreapp2.2/MKL.csprojAssemblyReference.cache
+/Users/chrislee/MKL/DataStructureAlgorithm/CompareString_20190529/obj/Debug/netcoreapp2.2/MKL.csproj.CoreCompileInputs.cache
+/Users/chrislee/MKL/DataStructureAlgorithm/CompareString_20190529/obj/Debug/netcoreapp2.2/MKL.AssemblyInfoInputs.cache
+/Users/chrislee/MKL/DataStructureAlgorithm/CompareString_20190529/obj/Debug/netcoreapp2.2/MKL.AssemblyInfo.cs
+/Users/chrislee/MKL/DataStructureAlgorithm/CompareString_20190529/bin/Debug/netcoreapp2.2/MKL.deps.json
+/Users/chrislee/MKL/DataStructureAlgorithm/CompareString_20190529/bin/Debug/netcoreapp2.2/MKL.runtimeconfig.json
+/Users/chrislee/MKL/DataStructureAlgorithm/CompareString_20190529/bin/Debug/netcoreapp2.2/MKL.runtimeconfig.dev.json
+/Users/chrislee/MKL/DataStructureAlgorithm/CompareString_20190529/bin/Debug/netcoreapp2.2/MKL.dll
+/Users/chrislee/MKL/DataStructureAlgorithm/CompareString_20190529/bin/Debug/netcoreapp2.2/MKL.pdb
+/Users/chrislee/MKL/DataStructureAlgorithm/CompareString_20190529/obj/Debug/netcoreapp2.2/MKL.dll
+/Users/chrislee/MKL/DataStructureAlgorithm/CompareString_20190529/obj/Debug/netcoreapp2.2/MKL.pdb
