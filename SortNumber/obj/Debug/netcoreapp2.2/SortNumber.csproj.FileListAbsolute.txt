@@ -1,0 +1,11 @@
+/Users/chrislee/MKL/DataStructureAlgorithm/SortNumber/bin/Debug/netcoreapp2.2/SortNumber.deps.json
+/Users/chrislee/MKL/DataStructureAlgorithm/SortNumber/bin/Debug/netcoreapp2.2/SortNumber.runtimeconfig.json
+/Users/chrislee/MKL/DataStructureAlgorithm/SortNumber/bin/Debug/netcoreapp2.2/SortNumber.runtimeconfig.dev.json
+/Users/chrislee/MKL/DataStructureAlgorithm/SortNumber/bin/Debug/netcoreapp2.2/SortNumber.dll
+/Users/chrislee/MKL/DataStructureAlgorithm/SortNumber/bin/Debug/netcoreapp2.2/SortNumber.pdb
+/Users/chrislee/MKL/DataStructureAlgorithm/SortNumber/obj/Debug/netcoreapp2.2/SortNumber.csprojAssemblyReference.cache
+/Users/chrislee/MKL/DataStructureAlgorithm/SortNumber/obj/Debug/netcoreapp2.2/SortNumber.csproj.CoreCompileInputs.cache
+/Users/chrislee/MKL/DataStructureAlgorithm/SortNumber/obj/Debug/netcoreapp2.2/SortNumber.AssemblyInfoInputs.cache
+/Users/chrislee/MKL/DataStructureAlgorithm/SortNumber/obj/Debug/netcoreapp2.2/SortNumber.AssemblyInfo.cs
+/Users/chrislee/MKL/DataStructureAlgorithm/SortNumber/obj/Debug/netcoreapp2.2/SortNumber.dll
+/Users/chrislee/MKL/DataStructureAlgorithm/SortNumber/obj/Debug/netcoreapp2.2/SortNumber.pdb
