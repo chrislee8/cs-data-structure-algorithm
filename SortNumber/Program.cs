@@ -15,11 +15,6 @@ namespace SortNumber
             Console.WriteLine("Second smallest number is : {0}", secondSmallestNumber(nums));
         }
 
-        public static bool compareStr_NC(string str1, string str2)
-        {
-            return (string.Compare(str1.ToUpper(), str2.ToUpper())==0)?true:false ;
-        }
-
         public static int smallestNumber(int[] numbers)
         {
             int smallest = numbers[0];
